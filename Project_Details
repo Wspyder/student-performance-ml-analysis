@@ -1,0 +1,14 @@
+## 📊 Student Performance Prediction using Machine Learning
+
+This project analyzes student academic performance using Exploratory Data Analysis (EDA) 
+and predicts final scores using multiple machine learning models.
+
+### Key Features
+- Real-world dataset collection and cleaning
+- Synthetic data generation to improve dataset size
+- EDA with statistical insights and visualizations
+- Regression & Classification models
+- Model comparison using evaluation metrics
+
+### Technologies Used
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
